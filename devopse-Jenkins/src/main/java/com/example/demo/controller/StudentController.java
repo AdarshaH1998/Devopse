@@ -20,5 +20,12 @@ public class StudentController {
 		return service.getStudent();
 		
 	}
+	
+	
+	public void test()
+	{
+		
+		
+	}
 
 }
