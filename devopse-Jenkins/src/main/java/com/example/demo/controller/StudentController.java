@@ -24,7 +24,7 @@ public class StudentController {
 	
 	public void test()
 	{
-		
+//		l;kasd
 		
 	}
 
